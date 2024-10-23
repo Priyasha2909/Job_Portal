@@ -63,7 +63,7 @@ spring.jpa.show-sql=true
 
 ### Screenshots
 
-![image](https://github.com/user-attachments/assets/ff9c3790-d1b5-48c7-b7bb-2896d0acb1f1)
+![image](https://github.com/user-attachments/assets/ff9c3790-d1b5-48c7-b7bb-2896d0acb1f1)  
 
 ![image](https://github.com/user-attachments/assets/3733236e-8a1a-4722-becc-5bb01afc3ffc)
 
@@ -76,10 +76,3 @@ spring.jpa.show-sql=true
 ![image](https://github.com/user-attachments/assets/d73cef0d-1db8-4de4-a2ab-65049383d3b0)
 
 ![image](https://github.com/user-attachments/assets/bc705d6f-2b54-4e51-9a61-f7d4461031f3)
-
-
-
-
-
-
-
