@@ -63,16 +63,13 @@ spring.jpa.show-sql=true
 
 ### Screenshots
 
-![image](https://github.com/user-attachments/assets/ff9c3790-d1b5-48c7-b7bb-2896d0acb1f1)  
+![image](https://github.com/user-attachments/assets/4a4b5585-458d-48a4-99f6-17005d8e6bc8) 
 
-![image](https://github.com/user-attachments/assets/3733236e-8a1a-4722-becc-5bb01afc3ffc)
+![image](https://github.com/user-attachments/assets/25fb1233-e2bc-44f2-b51a-089517203e9a) 
 
-![image](https://github.com/user-attachments/assets/7638e850-3fdd-4942-ad5f-1e52f19a6b4b)
+![image](https://github.com/user-attachments/assets/6771e6d4-6f5c-45f7-aab7-2c4c7e336b67)
 
-![image](https://github.com/user-attachments/assets/254e903e-3d41-48cb-b403-d7523a3e3e46)
+![image](https://github.com/user-attachments/assets/51b6b133-6301-42a5-a468-18ad8724f69e)
 
-![image](https://github.com/user-attachments/assets/ac747366-7ccc-41d2-a7e2-17d8764778a6)
 
-![image](https://github.com/user-attachments/assets/d73cef0d-1db8-4de4-a2ab-65049383d3b0)
 
-![image](https://github.com/user-attachments/assets/bc705d6f-2b54-4e51-9a61-f7d4461031f3)
